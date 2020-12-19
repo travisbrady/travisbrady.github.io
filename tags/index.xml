@@ -5,6 +5,79 @@
     <link>https://travisbrady.github.io/tags/</link>
     <description>Recent content in Tags on Travis Brady</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://travisbrady.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Fri, 18 Dec 2020 17:37:29 -0600</lastBuildDate><atom:link href="https://travisbrady.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>bash</title>
+      <link>https://travisbrady.github.io/tags/bash/</link>
+      <pubDate>Fri, 18 Dec 2020 17:37:29 -0600</pubDate>
+      
+      <guid>https://travisbrady.github.io/tags/bash/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fish</title>
+      <link>https://travisbrady.github.io/tags/fish/</link>
+      <pubDate>Fri, 18 Dec 2020 17:37:29 -0600</pubDate>
+      
+      <guid>https://travisbrady.github.io/tags/fish/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linux</title>
+      <link>https://travisbrady.github.io/tags/linux/</link>
+      <pubDate>Fri, 18 Dec 2020 17:37:29 -0600</pubDate>
+      
+      <guid>https://travisbrady.github.io/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>shell</title>
+      <link>https://travisbrady.github.io/tags/shell/</link>
+      <pubDate>Fri, 18 Dec 2020 17:37:29 -0600</pubDate>
+      
+      <guid>https://travisbrady.github.io/tags/shell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>zsh</title>
+      <link>https://travisbrady.github.io/tags/zsh/</link>
+      <pubDate>Fri, 18 Dec 2020 17:37:29 -0600</pubDate>
+      
+      <guid>https://travisbrady.github.io/tags/zsh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>machinelearning</title>
+      <link>https://travisbrady.github.io/tags/machinelearning/</link>
+      <pubDate>Mon, 14 Dec 2020 09:57:29 -0600</pubDate>
+      
+      <guid>https://travisbrady.github.io/tags/machinelearning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reinforcementlearning</title>
+      <link>https://travisbrady.github.io/tags/reinforcementlearning/</link>
+      <pubDate>Mon, 14 Dec 2020 09:57:29 -0600</pubDate>
+      
+      <guid>https://travisbrady.github.io/tags/reinforcementlearning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vowpalwabbit</title>
+      <link>https://travisbrady.github.io/tags/vowpalwabbit/</link>
+      <pubDate>Mon, 14 Dec 2020 09:57:29 -0600</pubDate>
+      
+      <guid>https://travisbrady.github.io/tags/vowpalwabbit/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

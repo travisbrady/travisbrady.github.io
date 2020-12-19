@@ -6,7 +6,16 @@
     <description>Recent content in About on Travis Brady</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 14 Dec 2020 09:57:29 -0600</lastBuildDate><atom:link href="https://travisbrady.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 18 Dec 2020 17:37:29 -0600</lastBuildDate><atom:link href="https://travisbrady.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Moving from Zsh to Fish</title>
+      <link>https://travisbrady.github.io/posts/moving-to-fish-shell/</link>
+      <pubDate>Fri, 18 Dec 2020 17:37:29 -0600</pubDate>
+      
+      <guid>https://travisbrady.github.io/posts/moving-to-fish-shell/</guid>
+      <description>Moving from Zsh to Fish 🐠  I recently began experimenting with Fish after a long time using zsh and oh my zsh. Thus far it&amp;rsquo;s been a good experience so thought I&amp;rsquo;d share why I did it, how I tweaked my setup and my thoughts on Fish so far. I also share some of the many mistakes I made in trying to configure fish to behave a bit like a faster zsh.</description>
+    </item>
+    
     <item>
       <title>New Stuff in Vowpal Wabbit 8.9.0</title>
       <link>https://travisbrady.github.io/posts/vowpal-8.9.0/</link>
@@ -24,7 +33,8 @@ This release seems to focus primarily on algorithm support and offline ease-of-u
       
       <guid>https://travisbrady.github.io/code/</guid>
       <description>Open Source Software My open source code is all visible on my Github page but I collect a few highlights here along with their goals.
- ocaml-vw OCaml bindings to the Vowpal Wabbit machine learning system word2phrase.py Python port of T. Mikolov&amp;rsquo;s word2phrase algorithm ccard Fast command line utility for the approximate counting of strings. Uses the Loglog-Beta algorithm for distinct values estimation component and Metrohash for hashing. Helpful if you work with lots of text data at the command line flajolet OCaml library providing approximate/sketching data structures for things such as distinct values estimation (hyperloglog), approximate set membership (bloom filters), frequency estimation (count min sketch), top-k queries (aka approximate frequency tables) ocaml-h3 OCaml bindings to Uber&amp;rsquo;s H3 hierarchical spatial indexing system  </description>
+1. ocaml-vw OCaml bindings to the Vowpal Wabbit machine learning system which is maybe most popular for its Contextual Bandit support but also includes more &amp;ldquo;standard&amp;rdquo; support for online classification and regression, Latent Dirichlet Allocation, matrix factorization and others.
+2. word2phrase.py Python port of T. Mikolov&amp;rsquo;s word2phrase algorithm originally proposed in his Distributed Representations of Words and Phrases and their Compositionality from NeurIPS 2013</description>
     </item>
     
     <item>

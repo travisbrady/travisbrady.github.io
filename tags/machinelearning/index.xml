@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>machinelearning on Travis Brady</title>
+    <link>https://travisbrady.github.io/tags/machinelearning/</link>
+    <description>Recent content in machinelearning on Travis Brady</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 14 Dec 2020 09:57:29 -0600</lastBuildDate><atom:link href="https://travisbrady.github.io/tags/machinelearning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New Stuff in Vowpal Wabbit 8.9.0</title>
+      <link>https://travisbrady.github.io/posts/vowpal-8.9.0/</link>
+      <pubDate>Mon, 14 Dec 2020 09:57:29 -0600</pubDate>
+      
+      <guid>https://travisbrady.github.io/posts/vowpal-8.9.0/</guid>
+      <description>New Stuff in Vowpal Wabbit 8.9.0  Vowpal Wabbit 8.9.0 was released a few weeks ago and includes a ton of interesting new features. I think it&amp;rsquo;s fair to say that it&amp;rsquo;s largest new release in my memory having used and followed the project now since 2014. This release shows excellent progress apparently due at least in part to Microsoft&amp;rsquo;s increased investment and reliance on the project.
+This release seems to focus primarily on algorithm support and offline ease-of-use as opposed to in-production-ease-of-use.</description>
+    </item>
+    
+  </channel>
+</rss>
